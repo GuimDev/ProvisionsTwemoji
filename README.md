@@ -1,7 +1,7 @@
 ProvisionsTwemoji 1.0.0
 =============
 
-[![Esoui Prov's Twemoji Support page](https://img.shields.io/badge/esoui.com-Provision%27s%20Twemoji%20Support-green.svg)](#notset)
+[![Esoui Prov's Twemoji Support page](https://img.shields.io/badge/esoui.com-Provision%27s%20Twemoji%20Support-green.svg)](https://www.esoui.com/downloads/info2212-ProvisionsTwemojiSupportDiscordEmoji.html)
 
 Prov's Twemoji Support is an addon for The Elder Scrolls Online, designed to show emoji on the chat like discord.
 
@@ -9,6 +9,8 @@ Prov's Twemoji Support is an addon for The Elder Scrolls Online, designed to sho
 
 # Alias
 
+| Name | Emoji | Alias |
+| --- | --- | --- |
 | `:angry:` | 😠 | `>:(`, `>:-(`, `>=(`, `>=-(` |
 | `:blush:` | 😊 | `:\")`, `:-\")`, `=\")`, `=-\")` |
 | `:broken_heart:` | 💔 | `</3`, `<\\3` |
@@ -38,6 +40,7 @@ Prov's Twemoji Support is an addon for The Elder Scrolls Online, designed to sho
 # Conversion table
 
 | Code | Twemoji |
+| --- | --- |
 | `:100:` | 💯 |
 | `:1234:` | 🔢 |
 | `:grinning:` | 😀 |
