@@ -8,7 +8,6 @@ const addonConfig = {
     // Set addon directory in environment vars or set default above. Mine is set to "C:\\Users\\Mike\\Documents\\Elder Scrolls Online\\live\\AddOns"
     esoAddonDir: process.env["ESO_ADDONS_PATH"] || defaultBuildFolder,
     sourceFiles: [
-        "lib/**",
         "textures/**",
         "emojiAlias.lua",
         "emojiTable.lua",

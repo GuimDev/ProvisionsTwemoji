@@ -34,7 +34,7 @@ const generateDeploy = () =>
 ;
 
 const generateArchive = () =>  
-	gulp.src(buildFolderPATH + path.sep + "**")
+	gulp.src([buildFolderPATH + path.sep + "**", "libs/**"])
 		.pipe(zip(`${addonConfig.modName}_${getVersion()}.zip`))
 		.pipe(gulp.dest(archiveFolderPATH))
 ;

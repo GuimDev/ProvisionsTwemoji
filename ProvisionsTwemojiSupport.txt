@@ -1,14 +1,10 @@
-## Title: |c00C000Prov|r's Twemoji Support 1.0.0
+## Title: |c00C000Prov|r's Twemoji Support 1.0.1
 ## Description: Ajout des emojis. (Add twemojis)
 ## Author: |c00C000Provision|r
 ## APIVersion: 100025, 100026
-## DependsOn: LibStub
+## DependsOn: LibStub libChat3 libGarfield
 ## OptionalDependsOn: LibStub
-## Version: 1.0.0
-
-lib/libStub.lua
-lib/libChat3.lua
-lib/libGarfield.lua
+## Version: 1.0.1
 
 ; Garfield
 header.lua
